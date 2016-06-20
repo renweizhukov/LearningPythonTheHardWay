@@ -1,4 +1,5 @@
-#!/usr/bin/python2.7
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 my_name = 'Zed A. Shaw'
 my_age = 35 # not a lie

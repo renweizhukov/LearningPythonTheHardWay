@@ -1,4 +1,5 @@
-#!/usr/bin/python2.7
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 cars = 100
 space_in_a_car = 4.0
