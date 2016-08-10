@@ -1,3 +1,5 @@
+sessions/
+
 # eclipse and PyDev project files
 .project
 .pydevproject
